@@ -1,0 +1,81 @@
+html,
+body {
+  height: 100%;
+  font-family: "Inter", sans-serif;
+  background-color: black;
+}
+.main-container {
+  height: 100%;
+  background-color: #3b4664;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.content-box-1 {
+  color: #1e1e1e;
+  height: 15%;
+}
+.content-box-2 {
+  height: 15%;
+}
+.content-box-3 {
+  height: 70%;
+}
+.line-1 {
+  margin: 15px 0px;
+}
+.line-2 {
+  margin: 15px px;
+}
+.line-3 {
+  margin: 15px 0px;
+}
+.line-4 {
+  margin: 15px 0px;
+}
+.line-5 {
+  margin: 15px 0px;
+}
+.del-button {
+  background-color: #647299;
+  color: white;
+  border: 1px solid black;
+  width: 100px;
+  height: 60px;
+  border-radius: 10px;
+  font-size: 30px;
+  font-weight: bolder;
+  margin: 0px 5px 0px 0px;
+}
+.numeric-button {
+  border: 1px solid black;
+  width: 100px;
+  height: 60px;
+  border-radius: 10px;
+  font-size: 30px;
+  font-weight: bolder;
+  margin: 0px 5px 0px 0px;
+}
+.reset-button {
+  background-color: #647299;
+  color: white;
+  border: 1px solid black;
+  width: 205px;
+  height: 60px;
+  border-radius: 10px;
+  font-size: 30px;
+  font-weight: bolder;
+  margin: 0px 5px 0px 0px;
+}
+.equal-to-button {
+  background-color: #d13f30;
+  color: white;
+  border: 1px solid black;
+  width: 205px;
+  height: 60px;
+  border-radius: 10px;
+  font-size: 30px;
+  font-weight: bolder;
+  margin: 0px 5px 0px 0px;
+}
