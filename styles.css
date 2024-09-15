@@ -107,3 +107,13 @@ body {
   margin: 0px 5px 0px 0px;
   gap: -5px;
 }
+.display {
+  font-size: 2rem;
+  color: white;
+  text-align: right;
+  padding: 10px;
+  background-color: black;
+  border-radius: 10px;
+  min-height: 50px;
+  word-wrap: break-word; /* In case long input overflows */
+}
